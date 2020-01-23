@@ -1,3 +1,3 @@
 ## Create Hex-Color With Javascript
 
-[Live Demo]()
+[Live Demo](https://michaelgreco7.github.io/JS-Create-Hex-Color/)

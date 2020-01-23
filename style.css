@@ -3,3 +3,38 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.hexColor {
+  text-transform: uppercase;
+}
+
+.hex {
+  font-size: 3rem;
+}
+
+.hex-btn {
+  color: #f15025;
+  border: 3px solid #f15025;
+  border-radius: 7px;
+  background: rgba(0, 0, 0, 0.6);
+  font-size: 1.6rem;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+  outline: none;
+  text-transform: uppercase;
+}
+
+.hex-btn:hover {
+  background: rgb(0, 0, 0);
+}
